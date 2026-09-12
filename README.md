@@ -1,5 +1,7 @@
 # Implementing Hierarchical Risk Parity (HRP)
 
+![alt text](<Screenshot from 2026-09-13 02-45-49.png>)
+
 A robust, production-ready Python implementation of Marcos López de Prado's **Hierarchical Risk Parity (HRP)** portfolio optimization algorithm. This project leverages graph theory, agglomerative hierarchical clustering, and recursive bisection to construct diversified asset allocations that avoid the mathematical instabilities of traditional mean-variance optimization. Includes a modular backtesting engine and an interactive Streamlit dashboard for performance visualization and dendrogram analysis.
 
 > **This is an implementation project** — a faithful, working build of the HRP algorithm described in:
